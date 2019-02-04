@@ -5,3 +5,5 @@ build
 target
 local.properties
 gradle
+gradlew
+gradlew.bat
