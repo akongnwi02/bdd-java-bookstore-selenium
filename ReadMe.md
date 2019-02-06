@@ -8,3 +8,6 @@ The Project focuses on using the following Test Automation Frameworks
 2. `JUnit`  
 3. `Selenium` 
 4. `Chrome Driver`
+5. `JaCoCo`
+
+Generate JaCoCo test report with command `gradle test jacocoTestReport`
